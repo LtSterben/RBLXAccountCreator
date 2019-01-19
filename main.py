@@ -12,7 +12,7 @@ bdayyear = '2001'
 
 url = 'https://www.roblox.com/account/signupredir'
 
-driver = webdriver.Chrome('/Users/LordA/Desktop/Roblox Acc. Creator/Resources/chromedriver')
+driver = webdriver.Chrome('/Users/%USERNAME%/Desktop/Roblox Acc. Creator/Resources/chromedriver')
 driver.get(url)
 
 #GetFields&Send
